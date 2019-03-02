@@ -1,0 +1,3 @@
+STUDENT1 1 Sname char 20
+STUDENT1 2 Sno char 20
+STUDENT1 3 Sage int 4

@@ -1,0 +1,12 @@
+student 1 sage int 4
+student 2 sname char 12
+stu 1 sno char 10
+stu 2 sno char 10
+SNO 1 sname char 10
+SNO 2 sname char 10
+stude 1 sname char 10
+stude 2 sname char 10
+stu 1 sno char 10
+stu 2 sno char 10
+stu 3 sname char 10
+stu 4 sage int 4
